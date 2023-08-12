@@ -8,7 +8,7 @@ import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
 import {
   faTint,        // Humidity
-  faWind,        // Wind Speed
+  faWind,        // Wind Speed 
   faCloudSun,
   faCloud, // Precipitation
   faSun,         // UV Index
